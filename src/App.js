@@ -10,15 +10,15 @@ class App extends Component {
       <div className="ui grid">
         <div className="row">
           <div className="sixteen wide column">
-          <Top/>
+        
           </div>
         </div>
         <div className="row">
           <div className="five wide column">
-            <Left/>
+
           </div>
           <div className="eleven wide column">
-            <Right/>
+
           </div>
         </div>
       </div>
